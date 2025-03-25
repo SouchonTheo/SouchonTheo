@@ -1,14 +1,22 @@
 ## Hi there 👋
 
 ### 🔭 Works
-I'm currently working on two projects that will make daily life better for individuals.
+- Full time at Ledger
+- [Git flip](https://github.com/SouchonTheo/git-flip) help you to switch easily account
+- Soon a tools to be able to use your mac with x11 style window management
+
+### Stacks
+- Scala
+  - Cats
+  - Cats Effect
+  - Tapir
+- SQL
+  - Postgres
+- Datadog  
 
 ### 🌱 Learnings
-- I'm now learning how to use tools that are specialized to the Tezos blockchain.
-- c++
+- zig
 - rust
 
 ### 📫 How to reach me
 - 📧 souchontheo24@gmail.com
-- 🌐 [Eportfolio](https://theosouchon.eth.limo/)
-- 🐦 [Twitter](https://twitter.com/Theo_Souchon)
