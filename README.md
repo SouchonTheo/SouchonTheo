@@ -1,23 +1,40 @@
-## Hi there 👋
+## Hello there! 👋 I'm Théo, a Backend Engineer
 
-### 🔭 Works
-- Full time at Ledger
-- [Git flip](https://github.com/SouchonTheo/git-flip) help you to switch easily account
-- [Oxrise](https://github.com/SouchonTheo/oxrise) is a x11 style window focus
-- Soon a tools to be able to use your mac with x11 style window management
+Passionate about building robust and performant systems. I currently work full-time at Ledger.
 
-### Stacks
-- Scala
-  - Cats
-  - Cats Effect
-  - Tapir
-- SQL
-  - Postgres
-- Datadog  
+### ✨ My Projects & Creations
 
-### 🌱 Learnings
-- zig
-- rust
+Here are some of my contributions:
 
-### 📫 How to reach me
-- 📧 souchontheo24@gmail.com
+* **Ledger:** My main focus day-to-day.
+* [**Git flip**](https://github.com/SouchonTheo/git-flip): A simple tool to easily switch between Git accounts. 🔄
+* [**Oxrise**](https://github.com/SouchonTheo/oxrise): A window focus management solution for X11 environments. 🖥️
+
+### 🚀 My Tech Toolkit (Stacks)
+
+My preferred languages and technologies, with a special focus on some:
+
+* 💖 **Favorites:**
+    * **Scala** (with Cats, Cats Effect, Tapir) 🔥
+    * **Rust** ⚙️
+    * **C** 🧱
+* ✅ **Also proficient in:**
+    * Javascript, Typescript
+    * Go
+    * Ocaml
+    * Java
+* 💾 **Databases:**
+    * SQL (Postgres)
+    * NoSQL
+* 📊 **Monitoring:** Datadog
+
+### 🌱 Currently Exploring
+
+Diving into:
+* zig (Exploring the low-level world)
+
+### ✉️ Let's Connect!
+
+The best way to reach me:
+* [LinkedIn](https://www.linkedin.com/in/theo-souchon)
+* 📧 souchontheo24@gmail.com
