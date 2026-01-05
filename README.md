@@ -1,12 +1,12 @@
 ## Hello there! 👋 I'm Théo, a Backend Engineer
 
-Passionate about building robust and performant systems. I currently work full-time at Ledger.
+Passionate about building robust and performant systems. I currently work full-time at Zama.
 
 ### ✨ My Projects & Creations
 
 Here are some of my contributions:
 
-* **Ledger:** My main focus day-to-day.
+* **Zama:** My main focus day-to-day.
 * [**Git flip**](https://github.com/SouchonTheo/git-flip): A simple tool to easily switch between Git accounts. 🔄
 * [**Oxrise**](https://github.com/SouchonTheo/oxrise): A window focus management solution for X11 environments. 🖥️
 
