@@ -21,6 +21,7 @@
 | Project                                                  | Description                                                   |
 | -------------------------------------------------------- | ------------------------------------------------------------- |
 | [**tfhe-rs**](https://github.com/zama-ai/tfhe-rs) @ Zama | My main focus day-to-day — FHE (Fully Homomorphic Encryption) |
+| [**makr**](https://github.com/SouchonTheo/makr)  | A fast, interactive TUI for exploring and running Makefile targets         |
 | [**git-flip**](https://github.com/SouchonTheo/git-flip)  | 🔄 A simple tool to easily switch between Git accounts        |
 | [**Oxrise**](https://github.com/SouchonTheo/oxrise)      | 🖥️ A window focus management solution for X11 environments    |
 
